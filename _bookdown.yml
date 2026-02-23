@@ -6,6 +6,7 @@ rmd_files: ["index.Rmd",
             "p1_ama.Rmd",
             "p2_w1.Rmd",
             "p2_w2.Rmd",
+            "survey.Rmd",
             "About.Rmd",
             "References.Rmd"]
 new_session: yes
