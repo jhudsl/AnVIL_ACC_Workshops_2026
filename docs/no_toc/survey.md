@@ -1,4 +1,4 @@
-# (PART\*) Supplemental Information
+# (PART\*) Supplemental Information {-}
 
 # The State of the AnVIL 2026
 

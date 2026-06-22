@@ -9,6 +9,5 @@ workspace-1
 imputation
 about-3
 workspace-2
-part-supplemental-information
 the-state-of-the-anvil-2026
 references
