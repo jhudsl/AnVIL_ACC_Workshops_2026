@@ -3,10 +3,10 @@ about
 workspace
 developer-ask-me-anything
 about-1
-ai-on-anvil
+ai-in-anvil-with-rstudio
 about-2
 workspace-1
-imputation
+all-of-us-and-anvil-imputation-service
 about-3
 workspace-2
 the-state-of-the-anvil-2026

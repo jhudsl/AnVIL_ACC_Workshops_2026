@@ -1,6 +1,6 @@
 ---
 title: "ACC Workshops 2026"
-date: "June 22, 2026"
+date: "June 25, 2026"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib
